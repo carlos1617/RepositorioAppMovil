@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProyectoDado</string>
+    <string name="lanzar">Lanzar</string>
+    <string name="todo">TODO</string>
+</resources>
